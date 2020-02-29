@@ -11,7 +11,7 @@ testing. Point your browser to localhost/num.py
 
 Or, one can run the following at the command line (from this directory) to generate a random vin:
 
-`python -c "import vin; print vin.getRandomVin()"`
+`python -c "import vin; print vin.get_random_vin()"`
 
 
 TODO:
